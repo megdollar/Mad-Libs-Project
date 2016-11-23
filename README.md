@@ -11,7 +11,7 @@ Terminal or command prompt and python
 
 ## Installing
 
-Using the teminal or command prompt cd to the directory where the project was downloaded and type `python Fill_in_the_Blanks.py`. Have fun putting all your programming terminology to work in this reverse mad-libs style program!
+Using the teminal or command prompt `cd` to the directory where the project was downloaded and type `python Fill_in_the_Blanks.py`. Have fun putting all your programming terminology to work in this reverse mad-libs style program!
 
 ## Deployment
 
@@ -24,4 +24,3 @@ Python
 ### Authors
 
 Megan Dollar
-
